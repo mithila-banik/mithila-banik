@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/mithila-banik/mithila-banik/blob/main/HI.png?raw=true)
 <h1 align="center">Hi 👋, I'm Mithila Banik</h1>
 <h3 align="center">Bioinformatics Enthusiast | Aspiring Cancer Researcher |</h3>
 <img align="right' alt="Coding' width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*hZJV9DjRZW9DJ4XfRwQaIA.png">
